@@ -7,6 +7,12 @@ def name
   @name
 end
 
-def breed= (breed)
+def breed= (dog_breed)
+  
+  @dog_breed= dog_breed
+end
+def breed
+  @breed
+end
   
 end
