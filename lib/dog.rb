@@ -7,5 +7,6 @@ def name
   @name
 end
 
-def breed=
+def breed= (breed)
+  
 end
